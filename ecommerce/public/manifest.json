@@ -1,0 +1,11 @@
+{
+  "name": "Modern Ecommerce Website",
+  "short_name": "modern_ecommerce_website",
+  "description": "",
+  "theme_color": "#42a5f5",
+  "background_color": "#42a5f5",
+  "display": "standalone",
+  "orientation": "landscape",
+  "scope": "/editor",
+  "start_url": "/editor"
+}
