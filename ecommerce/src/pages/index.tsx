@@ -11,7 +11,7 @@ const Home: NextPage = () => {
       >
         <link rel="manifest" href="/manifest.json" />
       </MetaHead>
-      Hello world
+      Hello
     </div>
   );
 };
