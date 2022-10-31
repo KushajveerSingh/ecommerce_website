@@ -1,7 +1,7 @@
 {
-  "name": "Modern Headphone Shop",
-  "short_name": "modern_ecommerce_website",
-  "description": "",
+  "name": "Ecommerce Full Stack",
+  "short_name": "ecommerce_full_stack",
+  "description": "Fully responsive ecommerce website built using Next.js, Stripe and Sanity. Manage entire content of website using Sanity, and use Stipe for managing payments, shipping rates and entire checkout process.",
   "theme_color": "#42a5f5",
   "background_color": "#42a5f5",
   "display": "standalone",

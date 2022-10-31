@@ -1,7 +1,7 @@
 import type { ProductType, BannerType } from '../utils/sanityTypes';
 
 import { client } from '../utils/sanityClient';
-import { FooterBanner, MetaHead, Product, HeroBanner } from '../components';
+import { FooterBanner, MetaTags, Product, HeroBanner } from '../components';
 
 interface Props {
   products: ProductType[];
@@ -11,12 +11,12 @@ interface Props {
 const Home = ({ products, bannerData }: Props) => {
   return (
     <>
-      <MetaHead
+      <MetaTags
         title="Modern Headphone Shop"
         description="Modern full stack ecommerce website built with Next.js"
       >
         <link rel="manifest" href="/manifest.json" />
-      </MetaHead>
+      </MetaTags>
 
       <HeroBanner heroBanner={bannerData && bannerData[0]} />
 

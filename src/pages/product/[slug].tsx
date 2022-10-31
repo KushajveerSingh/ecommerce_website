@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { AiOutlineMinus, AiOutlinePlus, AiFillStar, AiOutlineStar } from 'react-icons/ai';
 
-import { MetaHead, Product } from '../../components';
+import { MetaTags, Product } from '../../components';
 import { client, urlFor } from '../../utils/sanityClient';
 import type { ProductType } from '../../utils/sanityTypes';
 import { useStateContext } from '../../context/StateContext';
@@ -23,7 +23,7 @@ const ProductPage = ({ product, products }: Props) => {
 
   return (
     <div>
-      <MetaHead
+      <MetaTags
         title={name || 'Product'}
         description={details}
         url={`/product/${product.slug}`}

@@ -14,7 +14,7 @@ import { urlFor } from '../utils/sanityClient';
 import getStripe from '../utils/getStripe';
 
 const Cart = () => {
-  const cartRef = useRef();
+  const cartRef = useRef<HTMLDivElement>(null);
   const {
     totalPrice,
     totalQuantities,
