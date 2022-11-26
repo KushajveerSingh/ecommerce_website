@@ -18,9 +18,15 @@ Fully responsive ecommerce website built using Next.js, Stripe and Sanity. Manag
 
 ### Desktop overview
 
+https://user-images.githubusercontent.com/24699564/204075655-beab2313-eb72-4e84-818b-fb4ec9b59083.mp4
+
 ### Mobile overview
 
+https://user-images.githubusercontent.com/24699564/204075659-983c12ff-66a6-40d9-8c59-b09b8b0096e1.mp4
+
 ### Payment overview
+
+https://user-images.githubusercontent.com/24699564/204075666-aea14b6a-ddc4-4836-918c-dd24adbc2253.mp4
 
 ## Dependencies
 - [React](https://reactjs.org/)
