@@ -90,7 +90,7 @@ To test Stripe, using the following information
 
 **Step 8**. Create an account on [Vercel](https://vercel.com/) and then click **Add New...** -> **Project** and choose your github repository.
 
-And that is it. You have successfully deployed your custom restaurant website to Vercel.
+And that is it. You have successfully deployed your custom ecommerce website to Vercel.
 
 ## License
 This application has Apache License Version 2.0, as found in the [LICENSE](./LICENSE) file.
