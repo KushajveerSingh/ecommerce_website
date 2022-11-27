@@ -46,8 +46,8 @@ nvm install 16.17.1
 
 **Step 2**. Clone the repository and install all the dependencies.
 ```
-git clone https://github.com/KushajveerSingh/ecommerce_full_stack
-cd ecommerce_full_stack
+git clone https://github.com/KushajveerSingh/ecommerce_website
+cd ecommerce_website
 npm install --legacy-peer-deps
 ```
 

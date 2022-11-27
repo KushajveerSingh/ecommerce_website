@@ -15,7 +15,7 @@ const Home = ({ products, bannerData }: Props) => {
         title="Headphone Shop"
         description="Fully responsive ecommerce website built using Next.js, Stripe and Sanity. Manage entire content of website using Sanity, and use Stipe for managing payments, shipping rates and entire checkout process."
         image="/demo_image.png"
-        url="https://github.com/KushajveerSingh/ecommerce_full_stack"
+        url="https://github.com/KushajveerSingh/ecommerce_website"
       >
         <link rel="manifest" href="/manifest.json" />
       </MetaTags>
