@@ -84,7 +84,7 @@ To test Stripe, using the following information
 - Country / Zip code - any address can be used
 - Phone - any phone number can be used
 
-**Step 6**. Run `make run dev` to start the local development server at `localhost:3000`. Now you can customize the application as per your needs.
+**Step 6**. Run `npm run dev` to start the local development server at `localhost:3000`. Now you can customize the application as per your needs.
 
 **Step 7**. After making the desired changes, you can push your project to GitHub and you are ready for deployment on [Vercel](https://vercel.com/)
 
