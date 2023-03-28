@@ -3,7 +3,10 @@
 
 ![](assets/demo_image.png)
 
-Fully responsive ecommerce website built using Next.js, Stripe and Sanity. Manage entire content of website using Sanity, and use Stipe for managing payments, shipping rates and entire checkout process.
+- Developed and deployed a fully responsive, modern full-stack e-commerce application on Vercel using React/Next.js/TypeScript with integrated Stripe payments, advanced cart functionalities, and dyanmic content management using Sanity for seamless content updates.
+- Employed advanced React and Next.js best practices, such as hooks, refs, state management with React Context API, file-based routing, server-side rendering, and static generation for optimal website performance and user experience.
+- Implemented engaging UI features such as hover animations, dynamic product details pages, and animated recommendations, ensuring an optimal shopping experience across all devices.
+- Implemented Stripe integration for secure payment processing, shipping method selection, and checkout, resulting in a seamless and efficient purchasing experience for customers.
 
 ## Table of Contents
 - [Demo Videos](#demo-videos)
